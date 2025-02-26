@@ -1,0 +1,26 @@
+.text-purple{
+    color: seagreen;
+    text-align: center;
+}
+.text-red{
+    text-align: center;
+    color: red;
+}
+.nav-menü{
+   list-style-position: inherit;
+}
+#content-ürün-1{
+    margin-left: 500px;
+}
+#content-ürün-2{
+    margin-left: 480px;
+}
+#content-ürün-3{
+    margin-left: 550px;
+}
+#content-ürün-4{
+    margin-left: 670px;
+}
+#content-ürün-5{
+    margin-left: 670px;
+}
